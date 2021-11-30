@@ -1,0 +1,6 @@
+publisher:
+  topic-endpoints:
+    - topic: projects/multiregional-pubsub-demo/topics/dev-tokyo
+      endpoint: asia-northeast1-pubsub.googleapis.com
+    - topic: projects/multiregional-pubsub-demo/topics/dev-osaka
+      endpoint: asia-northeast2-pubsub.googleapis.com
